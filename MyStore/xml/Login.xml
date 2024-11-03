@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegistrationAndLogin">
+<listeners>
+	<listener class-name="com.mystore.utilities.ExtentListnerClass"></listener>
+</listeners>
+  <test name="verifyRegistrationAndLogin">
+    <classes>
+      <class name="com.mystore.testcases.TC_MyAccountPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

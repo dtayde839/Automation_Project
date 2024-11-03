@@ -1,0 +1,661 @@
+[INFO ] 2024-11-01 20:00:49.094 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 20:00:49.403 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-01 20:00:56.613 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:00:58.191 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-01 20:00:59.052 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-01 20:01:01.465 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:01:04.714 [main] MyStoreV1 - VerifySignOut - Failed
+[INFO ] 2024-11-01 20:03:00.575 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 20:03:00.877 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-01 20:03:03.221 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:03:04.144 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-01 20:03:05.357 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-01 20:03:08.058 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:03:10.901 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-01 20:12:02.049 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 20:12:02.129 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-01 20:12:05.814 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-01 20:12:08.049 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-01 20:12:10.171 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-01 20:12:10.763 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-01 20:12:13.402 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-01 20:12:13.635 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-01 20:12:16.706 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-01 20:12:16.706 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-01 20:12:16.783 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-01 20:12:18.517 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-01 20:12:19.599 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-01 20:12:22.089 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-01 20:12:26.108 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-01 20:12:28.602 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-01 20:12:29.480 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-01 20:12:30.305 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-01 20:12:30.554 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-01 20:12:33.249 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-01 20:12:35.098 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-01 20:12:37.482 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-01 20:12:40.506 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-01 20:12:48.340 [main] MyStoreV1 - VerifyBuyProduct - Failed
+[INFO ] 2024-11-01 20:37:13.671 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 20:37:22.799 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-01 20:37:26.468 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:37:30.176 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-01 20:37:31.676 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-01 20:37:35.626 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:37:36.692 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-01 20:37:43.351 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-01 20:37:45.643 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:37:46.402 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-01 20:37:47.012 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-01 20:37:49.873 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:38:22.151 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:38:22.571 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-01 20:38:22.921 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-01 20:38:53.135 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-01 20:38:54.811 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:38:55.364 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-01 20:38:55.725 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-01 20:38:56.976 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:38:59.117 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-01 20:39:16.551 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 20:39:16.575 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-01 20:39:18.781 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-01 20:39:20.210 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-01 20:39:21.907 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-01 20:39:22.198 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-01 20:39:24.278 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-01 20:39:25.059 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-01 20:39:27.023 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-01 20:39:27.040 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-01 20:39:27.086 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-01 20:39:28.814 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-01 20:39:29.911 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-01 20:39:31.744 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-01 20:39:34.308 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-01 20:39:37.852 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-01 20:39:38.635 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-01 20:39:39.455 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-01 20:39:39.962 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-01 20:39:42.426 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-01 20:39:44.906 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-01 20:39:46.851 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-01 20:39:49.310 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-01 20:39:57.150 [main] MyStoreV1 - VerifyBuyProduct - Failed
+[INFO ] 2024-11-01 20:56:29.277 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 20:56:41.691 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:56:44.987 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-01 20:56:46.111 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-01 20:56:52.539 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-01 20:57:00.552 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-01 20:59:16.544 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 20:59:29.007 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-01 20:59:32.673 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:59:33.826 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-01 20:59:34.528 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-01 20:59:37.526 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:59:38.074 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-01 20:59:43.968 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-01 20:59:46.443 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 20:59:46.886 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-01 20:59:47.356 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-01 20:59:49.043 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 21:00:21.309 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-01 21:00:21.763 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-01 21:00:22.001 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-01 21:00:27.006 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-01 21:00:35.199 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-01 21:00:35.344 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-01 21:01:23.926 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-01 21:01:23.946 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-01 21:01:26.415 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-01 21:01:28.137 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-01 21:01:30.515 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-01 21:01:31.225 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-01 21:01:35.070 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-01 21:01:35.185 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-01 21:01:38.339 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-01 21:01:38.339 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-01 21:01:38.425 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-01 21:01:41.130 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-01 21:01:42.527 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-01 21:01:44.630 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-01 21:01:47.876 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-01 21:01:50.900 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-01 21:01:51.877 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-01 21:01:52.416 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-01 21:01:52.644 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-01 21:01:56.368 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-01 21:01:58.351 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-01 21:02:00.448 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-01 21:02:03.367 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-01 21:02:10.952 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-01 21:02:14.130 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-02 21:38:45.667 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:38:50.154 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:38:51.098 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 21:38:51.881 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 21:42:59.066 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:43:04.313 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:43:05.531 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 21:43:05.921 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 21:43:09.865 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 21:43:17.425 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 21:46:48.125 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:46:56.068 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 21:46:58.705 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:46:59.455 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:46:59.977 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:47:02.269 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:47:02.498 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 21:47:05.136 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 21:47:07.229 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:47:07.584 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:47:08.110 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:47:10.196 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:47:42.443 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:47:43.061 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 21:47:43.294 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 21:47:47.459 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 21:47:53.763 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 21:47:53.889 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 21:48:38.500 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:48:38.522 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-02 21:48:40.513 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 21:48:41.765 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 21:48:43.752 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 21:48:44.316 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-02 21:48:46.129 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-02 21:48:46.452 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-02 21:48:48.261 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-02 21:48:48.285 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-02 21:48:48.351 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-02 21:48:49.860 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 21:48:50.924 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 21:48:52.360 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 21:48:54.831 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-02 21:48:57.105 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-02 21:48:57.946 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-02 21:48:58.761 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-02 21:48:59.031 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-02 21:49:01.178 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 21:49:03.259 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 21:49:04.999 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-02 21:49:08.170 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-02 21:49:16.080 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-02 21:49:18.466 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-02 21:52:13.037 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:52:25.563 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 21:52:32.382 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:52:33.196 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:52:34.927 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:52:37.167 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:52:37.595 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 21:52:40.271 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 21:52:41.860 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:52:42.214 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:52:42.723 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:52:44.584 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:55:52.802 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:56:03.069 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 21:56:05.268 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:56:06.159 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:56:06.907 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:56:08.954 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:56:09.200 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 21:57:39.598 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:57:39.759 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 21:57:42.727 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:57:43.870 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:57:44.372 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:57:46.499 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:57:48.655 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 21:58:54.063 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 21:58:58.651 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 21:59:01.627 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:59:02.975 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:59:03.668 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:59:06.107 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:59:06.439 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 21:59:10.621 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:59:11.322 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 21:59:11.865 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 21:59:43.643 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 21:59:46.669 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:59:47.654 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 21:59:48.289 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 21:59:51.146 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 21:59:54.374 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 22:00:08.410 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:00:08.424 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-02 22:00:10.836 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:00:12.184 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:00:14.439 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:00:14.917 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-02 22:00:17.944 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-02 22:00:18.211 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-02 22:00:21.756 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-02 22:00:21.756 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-02 22:00:21.816 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-02 22:00:24.369 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:00:25.462 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:00:26.951 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:00:30.265 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-02 22:00:33.510 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-02 22:00:34.190 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-02 22:00:35.014 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-02 22:00:35.291 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-02 22:00:38.503 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:00:40.629 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:00:42.509 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-02 22:00:45.229 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-02 22:00:53.418 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-02 22:00:55.847 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-02 22:02:01.518 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:02:06.085 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:02:09.501 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:02:10.709 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:02:11.815 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:02:14.042 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:02:14.340 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 22:02:18.888 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:02:19.508 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 22:02:19.823 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 22:02:26.105 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 22:02:34.144 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 22:02:34.362 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 22:03:19.291 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:03:19.302 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-02 22:03:21.335 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:03:22.803 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:03:24.756 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:03:25.219 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-02 22:03:27.716 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-02 22:03:28.063 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-02 22:03:30.216 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-02 22:03:30.223 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-02 22:03:30.267 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-02 22:03:31.890 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:03:32.995 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:03:34.582 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:03:38.162 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-02 22:03:40.607 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-02 22:03:41.427 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-02 22:03:42.249 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-02 22:03:42.547 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-02 22:03:45.176 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:03:46.938 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:03:49.015 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-02 22:03:51.758 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-02 22:03:59.885 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-02 22:04:02.059 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-02 22:09:53.674 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:10:02.893 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:10:08.579 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:10:10.529 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:10:11.082 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:10:14.676 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:10:14.856 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 22:11:09.489 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:11:09.500 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-02 22:11:14.335 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:11:15.890 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:11:18.380 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:11:18.908 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-02 22:11:21.189 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-02 22:11:21.377 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-02 22:11:23.741 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-02 22:11:23.744 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-02 22:11:23.774 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-02 22:11:25.401 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:11:26.223 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:11:27.633 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:11:31.840 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-02 22:11:36.207 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-02 22:11:37.434 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-02 22:11:38.018 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-02 22:11:38.335 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-02 22:11:40.970 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:11:44.299 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:11:46.176 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-02 22:11:49.012 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-02 22:11:56.497 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-02 22:11:58.438 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-02 22:15:09.482 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:15:12.977 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:15:14.029 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 22:15:14.466 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 22:15:19.178 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 22:15:28.631 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 22:15:35.620 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:16:05.801 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 22:16:52.251 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:16:52.265 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-02 22:16:54.062 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:16:55.573 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:16:57.550 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:16:58.250 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-02 22:16:59.980 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-02 22:17:00.191 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-02 22:17:02.499 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-02 22:17:02.500 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-02 22:17:02.534 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-02 22:17:04.068 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:17:05.235 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:17:06.608 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:17:10.931 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-02 22:17:13.534 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-02 22:17:14.148 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-02 22:17:14.939 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-02 22:17:15.166 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-02 22:17:17.968 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:17:19.991 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:17:21.917 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-02 22:17:24.558 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-02 22:17:33.173 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-02 22:17:35.477 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-02 22:20:17.184 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:20:17.420 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 22:20:24.152 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:20:25.830 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:20:27.030 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:20:30.078 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:20:32.656 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 22:20:35.328 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:20:36.198 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 22:20:36.853 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 22:20:42.361 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 22:20:50.368 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 22:20:57.041 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:21:40.391 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:21:40.402 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-02 22:21:42.320 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:21:43.976 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:21:46.242 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:21:46.753 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-02 22:21:49.659 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-02 22:21:49.806 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-02 22:21:52.064 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-02 22:21:52.069 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-02 22:21:52.120 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-02 22:21:54.704 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 22:21:56.069 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 22:21:59.231 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 22:22:02.481 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-02 22:22:06.099 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-02 22:22:07.080 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-02 22:22:07.892 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-02 22:22:08.136 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-02 22:22:10.341 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:22:12.331 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 22:22:14.284 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-02 22:22:17.449 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-02 22:22:25.794 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-02 22:22:27.960 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-02 22:30:20.828 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:30:21.213 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 22:30:36.265 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:30:37.858 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:30:38.713 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:30:43.105 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:30:45.931 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 22:34:44.400 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:34:44.568 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 22:34:50.451 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:34:54.794 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:35:01.030 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:35:04.186 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:35:08.168 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 22:35:13.203 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:35:14.333 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 22:35:14.799 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 22:35:22.344 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 22:35:30.430 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 22:35:36.709 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:38:23.172 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:38:23.464 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 22:38:25.963 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:38:26.779 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:38:27.391 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:38:30.047 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:38:32.860 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 22:41:18.044 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:41:20.870 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:41:21.835 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 22:41:22.564 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 22:41:30.859 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 22:41:39.499 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 22:41:47.210 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:41:49.964 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:41:50.824 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:41:51.249 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:41:55.952 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:41:56.113 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 22:50:11.973 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:50:15.279 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:50:16.619 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 22:50:17.304 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 22:50:23.057 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 22:50:31.303 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 22:50:42.144 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:50:44.790 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:50:45.620 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:50:46.333 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:50:49.103 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:50:49.268 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 22:55:25.025 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:55:25.226 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 22:55:28.145 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:55:29.574 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:55:30.911 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:55:33.207 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:55:36.707 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 22:57:11.479 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 22:57:16.546 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 22:57:19.078 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:57:20.073 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 22:57:20.953 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 22:57:24.801 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 22:57:25.227 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 23:33:49.880 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 23:33:54.563 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:33:56.001 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 23:33:56.432 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 23:36:31.997 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 23:36:52.044 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:36:53.172 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 23:36:53.738 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 23:37:05.609 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 23:37:14.711 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 23:37:25.402 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 23:37:27.355 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:37:27.808 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 23:37:28.228 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 23:37:30.276 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:37:30.522 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 23:40:33.216 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 23:40:45.720 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:40:49.108 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 23:40:50.106 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 23:41:05.179 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 23:41:14.201 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 23:41:24.719 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 23:41:26.582 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:41:27.274 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 23:41:27.727 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 23:41:31.008 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:41:31.127 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 23:44:20.084 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 23:44:20.342 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 23:44:23.877 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:44:24.753 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 23:44:25.366 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 23:44:28.016 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:44:31.642 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 23:44:34.239 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:44:34.931 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 23:44:35.226 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 23:44:40.460 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 23:44:49.129 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 23:44:57.790 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 23:44:59.709 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:45:00.610 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 23:45:01.104 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 23:45:02.625 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:45:02.832 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 23:46:13.110 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 23:46:13.233 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-02 23:46:18.021 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:46:20.244 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 23:46:21.541 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 23:46:25.922 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:46:28.363 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-02 23:46:30.700 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:46:31.328 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-02 23:46:31.660 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-02 23:46:39.128 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-02 23:46:47.166 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-02 23:46:56.578 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-02 23:46:59.187 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:47:00.161 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-02 23:47:00.724 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-02 23:47:02.861 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-02 23:47:03.121 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-02 23:47:34.370 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-02 23:47:34.376 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-02 23:47:40.904 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 23:48:01.685 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 23:48:07.823 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 23:48:08.438 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-02 23:48:11.597 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-02 23:48:13.107 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-02 23:48:16.096 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-02 23:48:16.097 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-02 23:48:16.132 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-02 23:48:17.769 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-02 23:48:20.808 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-02 23:48:23.033 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-02 23:48:28.479 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-02 23:48:33.693 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-02 23:48:36.831 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-02 23:48:37.355 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-02 23:48:38.108 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-02 23:48:41.803 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 23:48:44.042 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-02 23:48:46.458 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-02 23:48:49.576 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-02 23:48:57.430 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-02 23:48:59.474 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-03 00:10:50.874 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-03 00:10:51.233 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-03 00:10:58.609 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 00:11:01.331 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-03 00:11:02.041 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-03 00:11:04.216 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 00:11:06.725 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-03 00:11:08.818 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 00:11:09.796 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-03 00:11:10.293 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-03 00:11:16.138 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-03 00:11:23.348 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-03 00:11:33.542 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-03 00:11:35.391 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 00:11:36.541 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-03 00:11:37.173 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-03 00:11:39.057 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 00:11:39.219 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-03 00:12:04.719 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-03 00:12:04.749 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-03 00:12:18.533 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-03 00:12:21.061 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-03 00:12:23.763 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-03 00:12:24.542 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-03 00:12:27.343 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-03 00:12:27.667 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-03 00:12:30.094 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-03 00:12:30.095 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-03 00:12:30.146 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-03 00:12:32.194 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-03 00:12:33.738 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-03 00:12:35.836 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-03 00:12:39.713 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-03 00:12:43.468 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-03 00:12:44.714 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-03 00:12:45.786 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-03 00:12:46.237 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-03 00:12:49.306 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-03 00:12:51.793 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-03 00:12:54.220 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-03 00:12:57.950 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-03 00:13:06.536 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-03 00:13:09.162 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-03 14:18:28.778 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-03 14:18:29.030 [main] MyStoreV1 - ************** Verify Sign out test execution started *************
+[INFO ] 2024-11-03 14:18:37.668 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 14:18:40.678 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-03 14:18:41.843 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-03 14:18:45.244 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 14:18:47.817 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2024-11-03 14:18:49.921 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 14:18:50.599 [main] MyStoreV1 - Email address entered
+[INFO ] 2024-11-03 14:18:50.908 [main] MyStoreV1 - clicked on submit button
+[INFO ] 2024-11-03 14:18:58.615 [main] MyStoreV1 - entered user details on account creation page
+[INFO ] 2024-11-03 14:19:07.263 [main] MyStoreV1 - clicked on registered button
+[INFO ] 2024-11-03 14:19:17.458 [main] MyStoreV1 - verifyLogin test execution started....
+[INFO ] 2024-11-03 14:19:20.965 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 14:19:23.000 [main] MyStoreV1 - entered email address
+[INFO ] 2024-11-03 14:19:23.604 [main] MyStoreV1 - entered password
+[INFO ] 2024-11-03 14:19:25.391 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2024-11-03 14:19:25.477 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2024-11-03 14:19:47.666 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-03 14:19:47.672 [main] MyStoreV1 - 
+**************** TestCase Search Product Started ******************
+[INFO ] 2024-11-03 14:19:49.802 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-03 14:19:51.083 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-03 14:19:53.073 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-03 14:19:53.567 [main] MyStoreV1 - Search keyword entered in searchbox
+[INFO ] 2024-11-03 14:19:56.358 [main] MyStoreV1 - Search  button clicked
+[INFO ] 2024-11-03 14:19:56.576 [main] MyStoreV1 - Search Product test case - Passed
+[INFO ] 2024-11-03 14:19:58.667 [main] MyStoreV1 - Sign out button clicked
+[INFO ] 2024-11-03 14:19:58.671 [main] MyStoreV1 - ************* TTestCase Search Product Ends ***************
+[INFO ] 2024-11-03 14:19:58.688 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-03 14:20:00.590 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-03 14:20:01.653 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-03 14:20:03.378 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-03 14:20:06.739 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-03 14:20:10.372 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-03 14:20:11.112 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-03 14:20:11.956 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-03 14:20:12.221 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-03 14:20:15.278 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-03 14:20:18.400 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-03 14:20:20.523 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-03 14:20:23.216 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-03 14:20:31.350 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-03 14:20:33.906 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************
+[INFO ] 2024-11-03 19:34:16.232 [main] MyStoreV1 - url opened
+[INFO ] 2024-11-03 19:34:16.480 [main] MyStoreV1 - ************* TestCase Buy Product Starts ***************
+[INFO ] 2024-11-03 19:34:24.243 [main] MyStoreV1 - sign in button clicked
+[INFO ] 2024-11-03 19:34:26.734 [main] MyStoreV1 - email and password is entered
+[INFO ] 2024-11-03 19:34:29.161 [main] MyStoreV1 - Sign in button clicked
+[INFO ] 2024-11-03 19:34:33.922 [main] MyStoreV1 - Dresses link is clicked
+[INFO ] 2024-11-03 19:34:40.968 [main] MyStoreV1 - clicked on dress
+[INFO ] 2024-11-03 19:34:42.391 [main] MyStoreV1 - Dress size selected
+[INFO ] 2024-11-03 19:34:43.095 [main] MyStoreV1 - Dress quantity selected
+[INFO ] 2024-11-03 19:34:43.440 [main] MyStoreV1 - add to cart button clicked
+[INFO ] 2024-11-03 19:34:47.279 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-03 19:34:50.798 [main] MyStoreV1 - checkout button clicked
+[INFO ] 2024-11-03 19:34:53.762 [main] MyStoreV1 - agree button clicked
+[INFO ] 2024-11-03 19:34:57.036 [main] MyStoreV1 - payment button clicked
+[INFO ] 2024-11-03 19:35:05.164 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2024-11-03 19:35:07.470 [main] MyStoreV1 - ************* TestCase Buy Product Ends ***************

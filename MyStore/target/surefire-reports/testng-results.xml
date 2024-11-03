@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-03T14:17:41 IST" name="RegistrationAndLogin" finished-at="2024-11-03T14:20:34 IST" duration-ms="173133">
+    <groups>
+      <group name="signOut">
+        <method signature="TC_MyAccountPageTest.verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" name="verifyLogin" class="com.mystore.testcases.TC_MyAccountPageTest"/>
+        <method signature="TC_MyAccountPageTest.verifyRegistrationAndLogin()[pri:2, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" name="verifyRegistrationAndLogin" class="com.mystore.testcases.TC_MyAccountPageTest"/>
+      </group> <!-- signOut -->
+    </groups>
+    <test started-at="2024-11-03T14:17:41 IST" name="verifySearchProduct" finished-at="2024-11-03T14:20:34 IST" duration-ms="173133">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@6580cfdd]" started-at="2024-11-03T14:19:30 IST" name="setup" finished-at="2024-11-03T14:19:47 IST" duration-ms="17379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchProduct()[pri:1, instance:com.mystore.testcases.TC_ProductPageTest@6580cfdd]" started-at="2024-11-03T14:19:47 IST" name="verifySearchProduct" finished-at="2024-11-03T14:19:58 IST" duration-ms="11002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchProduct -->
+        <test-method signature="verifyBuyProduct()[pri:2, instance:com.mystore.testcases.TC_ProductPageTest@6580cfdd]" started-at="2024-11-03T14:19:58 IST" name="verifyBuyProduct" finished-at="2024-11-03T14:20:33 IST" duration-ms="35222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@6580cfdd]" started-at="2024-11-03T14:20:33 IST" name="tearDown" finished-at="2024-11-03T14:20:34 IST" duration-ms="1067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+      <class name="com.mystore.testcases.TC_MyAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" started-at="2024-11-03T14:17:43 IST" name="setup" finished-at="2024-11-03T14:18:28 IST" duration-ms="45553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySignOut()[pri:1, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" started-at="2024-11-03T14:18:29 IST" name="verifySignOut" finished-at="2024-11-03T14:18:47 IST" duration-ms="18810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignOut -->
+        <test-method signature="verifyRegistrationAndLogin()[pri:2, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" started-at="2024-11-03T14:18:48 IST" name="verifyRegistrationAndLogin" finished-at="2024-11-03T14:19:07 IST" duration-ms="19523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationAndLogin -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" started-at="2024-11-03T14:19:07 IST" name="signOut" finished-at="2024-11-03T14:19:11 IST" duration-ms="3430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" started-at="2024-11-03T14:19:17 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2024-11-03T14:19:26 IST" duration-ms="9139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tayde869@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tayde839]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dinesh Tayde]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" started-at="2024-11-03T14:19:26 IST" name="signOut" finished-at="2024-11-03T14:19:28 IST" duration-ms="2055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@2667f029]" started-at="2024-11-03T14:19:28 IST" name="tearDown" finished-at="2024-11-03T14:19:30 IST" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_MyAccountPageTest -->
+    </test> <!-- verifySearchProduct -->
+  </suite> <!-- RegistrationAndLogin -->
+</testng-results>

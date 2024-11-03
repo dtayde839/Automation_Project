@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-03T19:33:29 IST" name="Default suite" finished-at="2024-11-03T19:35:09 IST" duration-ms="99713">
+    <groups>
+    </groups>
+    <test started-at="2024-11-03T19:33:29 IST" name="Default test" finished-at="2024-11-03T19:35:09 IST" duration-ms="99713">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@6c64cb25]" started-at="2024-11-03T19:33:29 IST" name="setup" finished-at="2024-11-03T19:34:16 IST" duration-ms="46498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBuyProduct()[pri:2, instance:com.mystore.testcases.TC_ProductPageTest@6c64cb25]" started-at="2024-11-03T19:34:16 IST" name="verifyBuyProduct" finished-at="2024-11-03T19:35:07 IST" duration-ms="51105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@6c64cb25]" started-at="2024-11-03T19:35:07 IST" name="tearDown" finished-at="2024-11-03T19:35:09 IST" duration-ms="1821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
